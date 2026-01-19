@@ -1,7 +1,7 @@
 # PRJ566NBB_2261_Group1
 Repository for Seneca Polytechnic's class PRJ566.
 
-#United Transit
+# United Transit
 
 Group Members:  
 Scott Denby  
