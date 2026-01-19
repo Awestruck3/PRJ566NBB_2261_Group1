@@ -9,5 +9,6 @@ Dillon Kwak
 Eric Wong  
 Alex Protuc  
 Avery Lyu  
+Xena Illarionov  
 
 We are aiming to create a routing API that supports public transit trips with multiple stops by building upon existing data sources such as real-time service alerts, existing transit APIs, and live location tracking.
