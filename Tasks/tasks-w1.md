@@ -1,4 +1,4 @@
-# Tasks for week 1
+# Tasks for week 1 of project (week 3 of semester)
 Scott Denby - Create repository and work on section 1 of SRS
 
 Dillon Kwak - Create cover page for SRS and work on section 1 of SRS
